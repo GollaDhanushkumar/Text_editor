@@ -3,6 +3,7 @@
 This is a simple text editor application built using Java Swing. It provides a basic set of features for creating, opening, saving, and printing text files.
 
 **Features**
+
 **File Module**
 - New: Creates a new text file by clearing the current content in the text area.
 - Open: Allows the user to select an existing file and opens its content in the text editor. The file contents are read using FileReader and BufferedReader, and displayed in the text area. If the user cancels the operation, a message is displayed.
